@@ -54,6 +54,10 @@ header{
     margin-right: 5px;
 }
 
+.logo p{
+    color: #34e7f8;
+}
+
 .navegação{
     display: flex;
 }
