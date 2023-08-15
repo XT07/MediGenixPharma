@@ -1,3 +1,5 @@
+ @import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -240,4 +242,20 @@ header{
 
 .row3:hover{
     transform: translateY(-8px);
+}
+
+.text-objective{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+    padding: 0 15%;
+    margin-top: 15%;
+    font-size: 25px;
+    text-indent: 15px;
+}
+.efect-phrase{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
 }
